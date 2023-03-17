@@ -1,6 +1,6 @@
 <img align="right" src="https://count.getloli.com/get/@:BingHenQWQ?theme=moebooru">
 
-## 一只低调的猕猴桃—Fomalhaut🥝
+## 三两
 
 一个机械在读研究生，对数据结构与算法、前端开发以及Linux驱动开发比较感兴趣，欢迎光临我的Github首页！🍧🍧🍧
 
