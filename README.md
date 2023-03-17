@@ -21,3 +21,9 @@
 
 ### Github 贡献图
 [![BingHenQWQ's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=BingHenQWQ&theme=vue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 你可以通过以下方式联系我
+
+QQ:2788617002
+
+博客：boke.sanliang.shop
